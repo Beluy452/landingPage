@@ -145,6 +145,7 @@ header .container span {
   font-size: 14px;
   color: #767779;
   font-weight: 500;
+  display: block;
 }
 .one-section .container {
   display: -ms-flexbox;

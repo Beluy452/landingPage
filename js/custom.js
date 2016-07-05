@@ -5,7 +5,7 @@ $(document).ready(function () {
     var anchor = this.hash;
     $('html, body').stop().animate({
         scrollTop: $(anchor).offset().top - 110
-    }, 2500);
+    }, 1500);
     });//scroll якорів
 
     // Header Scroll
